@@ -1,0 +1,100 @@
+body {
+	
+	
+}
+
+.head {
+	display: block;
+	background-image: url('../images/icon.jpg');
+	background-repeat: no-repeat;
+	height: 310px;
+	width: 500px;
+	text-align: center;
+	margin-left: 500px;
+	margin-top: 50px;
+
+}
+
+.main {
+	display: inline-block;
+	text-align: center;
+	height: 500px;
+	width: 500px;
+	margin-left: 500px;
+	font-family: verdana;
+
+}
+
+#introp {
+font-size: 18px;
+}	
+
+.list_item_input {
+margin-top: 25px;
+width: 250px;
+
+
+}
+
+.list_item_return {
+	background-color: #F8BFCA;
+	display:block;
+	text-align: center;
+	width: 250px;
+	height: 30px;
+	margin-left: 115px;
+	margin-top: 25px;
+	font-size: 24px;
+	padding:5px;
+	border-radius: 25px;
+
+}
+
+.list_style_regular {
+	background-color: #FFFFFF;
+	display:block;
+	text-align: center;
+	width: 250px;
+	height: 30px;
+	font-size: 24px;
+	padding:5px;
+	border-radius: 25px;
+
+}
+
+.list_style_cross {
+	background-color: #C0BFBF;
+	display:block;
+	text-align: center;
+	width: 250px;
+	height: 30px;
+	font-size: 24px;
+	padding:5px;
+	border-radius: 25px;
+	text-decoration: line-through;
+
+}
+
+.list_style_remove {
+	background-color: #C0BFBF;
+	display:inline-block;
+	text-align: center;
+	width: 250px;
+	height: 30px;
+	margin-left: 55px;
+	font-size: 24px;
+	padding:5px;
+	border-radius: 25px;
+	text-decoration: line-through;
+
+}
+
+.applist {
+	background-color: #F8BFCA;
+	display: block:
+	width: 200px;
+	height: 520px;
+	margin-top: 40px;
+	border-radius: 25px;
+{
+
